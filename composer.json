@@ -3,11 +3,11 @@
     "type": "magento-module",
     "license": "Mixed",
     "homepage": "",
-    "description": "Javascript Libraries for Magento",
+    "description": "Javascript Calendar for Magento",
     "authors": [
     {
-        "name": "Moshe",
-        "email": "moshe@varien.com"
+        "name": "Magento Core Team",
+        "email": "core@magentocommerce.com"
     }
 ],
     "suggest": {
